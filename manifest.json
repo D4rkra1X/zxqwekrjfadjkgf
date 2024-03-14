@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Extension For EM Client.",
+        "name": "Connected Glass",
+        "uuid": "2aa1b2df-583f-4238-8cc4-415837e81fb4",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "Extension For EM Client.",
+            "type": "resources",
+            "uuid": "aebb77f5-190b-4d21-89c1-811c44e15c42",
+            "version": [0, 0, 1]
+        }
+    ]
+}
